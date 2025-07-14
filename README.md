@@ -4,7 +4,7 @@ This is a responsive landing page for a fictional NFT store called **Wildly Expe
 
 ## 🌐 Demo
 
-> * 
+> * github.com/mkhaleifa/NFT-project
 
 ## 📁 Project Structure
 
@@ -32,9 +32,7 @@ This is a responsive landing page for a fictional NFT store called **Wildly Expe
 To view the project locally:
 
 ```bash
-git clone https://github.com/your-username/nft-landing-page.git
-cd nft-landing-page
-open inddex.html  # or open it manually in your browser
+github.com/mkhaleifa/NFT-project
 ```
 
 ## 📄 License
